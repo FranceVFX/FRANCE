@@ -1,4 +1,11 @@
 /* Compiled minimal Tailwind-like utilities for this page (generated) */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
 html,
 body {
   background-color: #1a1a1a;
